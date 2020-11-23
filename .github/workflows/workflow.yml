@@ -2,4 +2,4 @@ on:
   push:
     - main
     paths :
-      - '**.js'
+      - '**.scala'
